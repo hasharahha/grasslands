@@ -33,6 +33,16 @@ div[for=leftpanel]{
   position fixed;
  left: 0;
  top: 0;
- height: 800px;
+ height: 650px;
+ width: 300px;
+}
+
+div[for=rightpanel]{
+  background-color: black;
+  color: white;
+  position fixed;
+ right: 0;
+ top: 0;
+ height: 650px;
  width: 300px;
 }
