@@ -6,3 +6,8 @@ div[for=header]{
 font-size: 30px;
 color: white;
 }
+
+div[for=prezi]{
+  margin-right: auto;
+  margin-left: auto;
+}
