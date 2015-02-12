@@ -1,0 +1,8 @@
+body{
+background-color: black;
+}
+
+div[for=header]{
+font-size: 10pt;
+color: white;
+}
