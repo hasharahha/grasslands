@@ -33,6 +33,6 @@ div[for=leftpanel]{
   position fixed;
  left: 0;
  top: 0;
- height: 100%;
+ height: 800px;
  width: 300px;
 }
