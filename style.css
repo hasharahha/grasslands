@@ -4,6 +4,7 @@ background-color: black;
 
 div[for=header]{
 font-size: 30px;
+text-align: center;
 color: white;
 }
 
