@@ -8,6 +8,8 @@ color: white;
 }
 
 div[for=prezi]{
+  text-align: center;
   margin-right: auto;
   margin-left: auto;
+  
 }
