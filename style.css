@@ -2,7 +2,7 @@ body{
 background-color: black;
 }
 
-#header{
+div[for=header]{
 font-size: 10pt;
 color: white;
 }
