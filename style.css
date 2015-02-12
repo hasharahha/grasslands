@@ -24,3 +24,12 @@ div[for=prezi]{
 margin: auto;
   z-index: 10;
 }
+
+
+div[for=leftpanel]{
+  position fixed;
+ left: 0;
+ top: 0;
+ height: 100%;
+ width: 300px;
+}
