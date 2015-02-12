@@ -2,6 +2,14 @@ body{
 background-color: black;
 }
 
+img[for=bg]{
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  
+}
 div[for=header]{
 font-size: 30px;
 text-align: center;
